@@ -112,6 +112,7 @@
                 </option>
                 <option IS_BUILTIN_EMPTY="false" IS_VALUE_EMPTY="false" id="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.cpp.linker.option.directories.0446552423" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.cpp.linker.option.directories" valueType="libPaths">
                   <listOptionValue builtIn="false" value="C:/git/STM32F469-dk/stm32f469i_disco/STM32F469I-DISCO/Middlewares/ST/touchgfx/lib/core/cortex_m4f/gcc"/>
+                  <listOptionValue builtIn="false" value="C:/Users/mihailozar/Desktop/DisplayNew/Middlewares/ST/touchgfx/lib/core/cortex_m4f/gcc"/>
                 </option>
                 <inputType id="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.cpp.linker.input.1690517566" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.cpp.linker.input">
                   <additionalInput kind="additionalinputdependency" paths="$(USER_OBJS)"/>
@@ -236,6 +237,7 @@
                 </option>
                 <option IS_BUILTIN_EMPTY="false" IS_VALUE_EMPTY="false" id="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.cpp.linker.option.directories.7485061840" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.cpp.linker.option.directories" valueType="libPaths">
                   <listOptionValue builtIn="false" value="C:/git/STM32F469-dk/stm32f469i_disco/STM32F469I-DISCO/Middlewares/ST/touchgfx/lib/core/cortex_m4f/gcc"/>
+                  <listOptionValue builtIn="false" value="C:/Users/mihailozar/Desktop/DisplayNew/Middlewares/ST/touchgfx/lib/core/cortex_m4f/gcc"/>
                 </option>
                 <inputType id="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.cpp.linker.input.129321398" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.cpp.linker.input">
                   <additionalInput kind="additionalinputdependency" paths="$(USER_OBJS)"/>
